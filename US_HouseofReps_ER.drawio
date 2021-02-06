@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-06T08:21:28.508Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="n_wvsqf6GO92aq2BBW1w" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-06T08:24:10.210Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Euy6Kiey_8io6Kv6Uuas" version="14.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="946" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -148,7 +148,7 @@
             <mxPoint x="520" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L85Nj75EQ3WxGEY07gv7-51" value="Vote_Type" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="L85Nj75EQ3WxGEY07gv7-51" value="Decision" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Times New Roman;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L85Nj75EQ3WxGEY07gv7-52" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="L85Nj75EQ3WxGEY07gv7-51" target="L85Nj75EQ3WxGEY07gv7-42">
